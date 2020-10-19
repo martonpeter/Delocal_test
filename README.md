@@ -20,7 +20,7 @@ Data structure of a contact:
 - address
 
 **Additional info:**
-You should use Php.
-You should not use any framework.
-You should write production code that you would push to a repository and solves the feature.
-You should submit the solution even if it is not fully finished.
+* You should use Php.
+* You should not use any framework.
+* You should write production code that you would push to a repository and solves the feature.
+* You should submit the solution even if it is not fully finished.
