@@ -1,5 +1,5 @@
 # BackendTest
-Delocal Zrt. - PHP Fejlesztői teszt
+Delocal Zrt. - PHP Fejlesztői teszt - megoldás
 
 ## Contacts API
 
@@ -24,3 +24,8 @@ Data structure of a contact:
 * You should not use any framework.
 * You should write production code that you would push to a repository and solves the feature.
 * You should submit the solution even if it is not fully finished.
+
+**Developer info:**
+* SQL Dump is located in the sql folder.
+* Set the database connection information in config.php.
+* The frontend section is for testing purposes only.
